@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<input> type="text" id="a" oninput="LayDuLieu()"
+<h5 id="kq"></h5>
+<script>
+    function layDuLieu() {
+        let duLieu = document.getElementById("a").value;
+        aler()
+    }
+    //Các kỉu xuất dữ liệu:
+    //dulieu để hứng cái mọi người lấy về
+    //muốn ấy giá trị (value) của ô input thì phải viết .value;
+    //onchange Giá trị của ô này thay đổi thì mới lấy dữ liệu viết vào một cái là thay đổi luôn
+    //oninput
+
+
+    // Các cách nhập dữ liẹu vào JS:
+    let a =  prompt("Nhập đi"); //Nhập trên hộp thoại
+    alert(a);
+
+    // Các cách xuất dữ liệu trong JS:
+    // alert("Hello"); // Hiên thị hộp thoại
+    //document.write("Hello"); .// HIển thị trức tiếp trên web.
+    //console.log("Hello"); //Hiển thị trong Consol > Inspect
+    document.getElementById('kq').innerHTML = "LInh" // Hiển thị trực tiếp lên thẻ HTML
+
+
+</script>
+</body>
+</html>

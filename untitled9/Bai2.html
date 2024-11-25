@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Câu 2</title>
+</head>
+<body>
+<script>
+    function insertNumberToArray(arr, x, index) {
+        let mang_moi = [];
+        if (index < 0 || index > arr.length) {
+            return arr;
+        }
+
+        for (let i = 0; i < arr.length; i++) {
+            if (i === index) {
+                mang_moi.push(x);
+            }
+            mang_moi.push(arr[i]);
+        }
+        return mang_moi;
+    }
+
+    let mang_cac_so_nguyen = [1, 2, 3, 4, 5];
+    let mot_so_nguyen_x = 10;
+    let so_nguyen_vi_tri_index = 2;
+    let ketqua = insertNumberToArray(mang_cac_so_nguyen, mot_so_nguyen_x, so_nguyen_vi_tri_index);
+    console.log(ketqua);
+
+</script>
+
+</body>
+</html>

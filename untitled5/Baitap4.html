@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+        nhập số a <input type="text" id="nhapa">;
+        nhập số b <input type="text" id="nhapb">;
+     <button onclick="hiendulieu()"> Hiện thị a và b</button>
+
+<script>
+  function hiendulieu() {
+      let nhapsoa = document.getElementById("nhapa").value
+      let nhapsob = document.getElementById("nhapb").value
+      if (nhapsoa > nhapsob) {
+          alert("a lớn b")
+      }
+      else {
+          alert("a nhỏ b")
+      }
+      if (nhapsoa == nhapsob) {
+          alert("a bằng b")
+      }
+      else {
+          alert("a khác b")
+      }
+  }
+
+
+</script>
+<body>
+
+</body>
+</html>

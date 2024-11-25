@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+   Nhập vào chiều dài<input type="text" id="chieudai">;
+   Nhập vào chiều rộng<input type="text" id="chieurong">;
+  <button onclick="tinhchuvivadientich()"> Tinh chu vi và diện tích </button>
+   <script>
+       function tinhchuvivadientich() {
+           let chieudai = document.getElementById("chieudai").value
+           let chieurong = document.getElementById("chieurong").value
+           let chuvi = 2 * (chieudai + chieurong);
+           let dientich = chieudai * chieurong;
+           alert("Chu vi hình chữ nhật là " + chuvi);
+           alert("Dien tích hình chữ nhật là " + dientich);
+
+       }
+
+  </script>
+</body>
+</html>

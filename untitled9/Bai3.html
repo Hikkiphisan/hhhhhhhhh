@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Câu 3</title>
+</head>
+<body>
+<script>
+    function KiemTraDayCoPhaiLaSoNguyenTo_haykhong(number) {
+        if (number <= 1) {   //Nếu nhỏ hơn hoặc bằng 1 và 0 thì không thể nào là số nguyên tố, nên phải trả ra false
+            return false;
+        }
+        for (let i = 2; i * i <= number; i++) {
+            if (number % i === 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    function sumOfListPrime(x) {
+        let tong_cac_so_nguyen_to = 0;
+        for (let i = 2; i <= x; i++) {
+            if (KiemTraDayCoPhaiLaSoNguyenTo_haykhong(i)) {
+                tong_cac_so_nguyen_to += i;
+            }
+        }
+        return tong_cac_so_nguyen_to;
+    }
+
+
+    console.log(sumOfListPrime(20));
+
+</script>
+</body>
+</html>

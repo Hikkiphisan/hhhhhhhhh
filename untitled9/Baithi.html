@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Câu 1: THỰC HÀNH KẾT THÚC MODULE BOOTCAMP PREPARATION</title>
+</head>
+<body>
+<script>
+    let mang_diem = [254, 204, 304, 356, 404];
+    let tong_diem = 0;
+    let diemtrungbinh = 0
+    function findAvg() {
+
+        for (let i = 0; i < mang_diem.length ; i++) {
+            tong_diem += mang_diem[i];
+        }
+        diemtrungbinh = tong_diem / mang_diem.length;
+        return diemtrungbinh;
+    }
+
+    console.log(findAvg());
+
+</script>
+</body>
+</html>

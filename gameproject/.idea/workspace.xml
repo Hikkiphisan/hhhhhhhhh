@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69bc6a9a-3441-45c6-8d32-3cdd7de217e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bài1_2_3_4 Tổng quan JS/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài1_2_3_4 Tổng quan JS/bien_va_kieu_du_lieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cautrucdieukien1/3b97635b6bd4a5bfc436fbd3908f05e0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cautrucdieukien1/Luyentapcautrucdieukien1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gametraining/128 128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gametraining/Attack_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gametraining/Attack_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gametraining/Untitled-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gametraining/gametest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gametraining/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gametraining/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gametraining/vecteezy_waterfall-game-background_24098100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPQuanlysanpham/TrainingGamePrograming" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../background/vecteezy_waterfall-game-background_24098100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duângmethunghiem/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duângmethunghiem/gametest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duângmethunghiem/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duângmethunghiem/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/Function.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/Walk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/Walk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/flying.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/functionwalkaction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/shadow_dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/vecteezy_waterfall-game-background_24098100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gameproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/128 128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attack_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attack_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attack_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gametest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuturu_1 - Copy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vecteezy_waterfall-game-background_24098100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yada-yada-95178.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../htmltableandform/.idea/htmltableandform.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../htmltableandform/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../htmltableandform/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/Anh-avatar-dep-chat-lam-hinh-dai-dien.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.cspell.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/ISSUE_TEMPLATE/bug_report.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/ISSUE_TEMPLATE/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/ISSUE_TEMPLATE/feature_request.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/SUPPORT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/dependabot.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/workflows/codeql-analysis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/workflows/dependency-review.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/workflows/publish.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/workflows/push-to-template.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/workflows/spellcheck.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.github/workflows/test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.idea/untitled10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/js/vendor/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/webpack.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/webpack.config.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/dist/webpack.config.prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/docs/TOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/docs/about-this-repo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/docs/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/docs/extend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/docs/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/docs/html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/docs/js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/docs/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/docs/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/ff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/gulpfile.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/js/vendor/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/webpack.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/webpack.config.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/src/webpack.config.prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/test/file_content.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/test/file_existence.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/Baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/Baitap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/Baitap5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/Bài tập 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/Tong_hop_module_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/tg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/vonglap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6dieukien/caudieukien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled8/cartoon-jump-6462.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled8/fg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled8/gaigau.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/Baithi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/Câu 4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bainopthuchanh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Bainopthuchanh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhhhh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hhhhh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitlevd/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitlevd/.idea/d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitlevd/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitlevd/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wf-hello" beforeDir="false" afterPath="$PROJECT_DIR$/../wf-hello" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eLSMHezDbCJd22Cdi9rsCoiqU2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\hhhhh\gameproject" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69bc6a9a-3441-45c6-8d32-3cdd7de217e4" name="Changes" comment="" />
+      <created>1711682316007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711682316007</updated>
+      <workItem from="1711682317058" duration="108000" />
+      <workItem from="1711682438610" duration="668000" />
+      <workItem from="1711686050642" duration="44000" />
+      <workItem from="1711697026713" duration="405000" />
+      <workItem from="1711703018639" duration="1265000" />
+      <workItem from="1711705816312" duration="2083000" />
+      <workItem from="1711861781599" duration="178000" />
+      <workItem from="1711873317077" duration="614000" />
+      <workItem from="1711937624652" duration="187000" />
+      <workItem from="1719227816902" duration="10000" />
+      <workItem from="1719901382706" duration="10000" />
+      <workItem from="1721550266599" duration="5000" />
+      <workItem from="1723040465840" duration="2000" />
+      <workItem from="1723051785628" duration="5000" />
+      <workItem from="1723103803875" duration="3000" />
+      <workItem from="1723898174163" duration="3000" />
+      <workItem from="1726159941003" duration="3000" />
+      <workItem from="1727621061295" duration="4000" />
+      <workItem from="1728523317077" duration="1611000" />
+      <workItem from="1729493695155" duration="10000" />
+      <workItem from="1732505207490" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Câu 4</title>
+</head>
+<body>
+<script>
+    class Circle {
+        constructor(x, y, radius, color) {
+            this.toado_x = x;
+            this.toado_y = y;
+            this.bankinh_radius = radius;
+            this.mausac_color = color;
+        }
+
+        render(canvas) {
+            let noidung = canvas.getContext('2d');
+            noidung.beginPath();
+            noidung.arc(this.toado_x, this.toado_y, this.bankinh_radius, 0, Math.PI * 2);
+            noidung.fillStyle = this.mausac_color;
+            noidung.fill();
+        }
+    }
+    let hinh_tron = new Circle(50, 50, 80, "#000000");
+    let canvas = document.createElement('canvas');
+    canvas.chieurong = 1000;
+    canvas.chieudai = 1000;
+    document.body.appendChild(canvas);
+    hinh_tron.render(canvas);
+
+</script>
+</body>
+</html>

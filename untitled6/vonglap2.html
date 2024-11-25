@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>In ra bảng cửu chương</title>
+</head>
+<body>
+
+<!--    <script>-->
+<!--        for (let i = 2; i < 10 ; i++) {-->
+<!--            for (let j = 1; j < 10 ; j++) {-->
+<!--            forlong = document.write(i + "x" + j + "=" + i * j)-->
+<!--            }-->
+<!--             document.write(forlong + "<br>")-->
+
+<!--        }-->
+<!--    </script>-->
+
+
+<!--<script>-->
+<!--    let soluongSNTtudienvao = +(prompt("Nhập n số nguyên tố đầu tiên: "));-->
+<!--    let count = 0; // đếm số ước của số đang xét;-->
+<!--    let countSNT = 0; // đếm xem đã đủ số lượng số nguyên tố cần in ra chưa;-->
+
+
+<!--    for (let i = 2; i < 1000; i++) { // 2,3,4,5,6,7,8,....,1000     i = 3-->
+<!--        if (countSNT < soluongSNTtudienvao) { // Mày điền vào đây là số 10 tức là chỉ được đếm 9 lần-->
+<!--            for (let j = 1; j <= i; j++) {-->
+<!--                if (i % j == 0) {-->
+<!--                    count += 1;      //*Đếm được 2 số ước.-->
+<!--                }-->
+<!--            }-->
+<!--            if (count == 2) {-->
+<!--                document.write(i); //     2-->
+<!--                countSNT += 1; //   countSNT lên 1-->
+<!--            }-->
+<!--            count = 0;-->
+<!--        } else {-->
+<!--            break;-->
+<!--        }-->
+<!--    }-->
+<!--    <script>-->
+<!--    -->
+<!--    -->
+
+
+
+<!--    <script>-->
+<!--        let nhapsoluong = +prompt("Nhập số lượng vào đây từ 1 đến 100 để đẻ ra số lượng Fibonacci tương ứng ")-->
+<!--        let soluong_gioihan_duocphepchamtoi = 0-->
+
+
+
+<!--        let num1 = 0     //0-->
+<!--        let num2 = 1     //1-->
+<!--        let num3 = ""-->
+
+
+
+<!--                for (let j = 0; j < nhapsoluong; j++) {  //vòng lặp này dùng để đẻ ra số lượng Fibonacci // đoan này tức là vòng lặp này đang lặp lại 100 lần chứ không phải j mang giá trị gì cả.-->
+<!--                    num3 = num1 + num2   // 0 + 1 = 1-->
+<!--                    document.write(num3 + "<br>")      //1b  = 1 + 0   vậy là in ra số num3 là 1-->
+<!--                    num1 = num2-->
+<!--                    num2 = num3                  //sau khi quá trình này kết thúc, gán num3 cho num2}-->
+
+
+
+
+<!--            soluong_gioihan_duocphepchamtoi++-->
+<!--        }-->
+
+<!--    </script>-->
+
+<!--n!=n×(n−1)×(n−2)×…×2×1-->
+<!--<script>-->
+
+<!--    let num = +prompt("Nhập số nguyên dương cần tính giai thừa:");-->
+
+<!--    if (num < 0) {-->
+<!--        alert("Đây éo phải chỗ nguyên dương. Vui lòng nhập lại số nguyên dương.");-->
+<!--    } else {          //nếu là chỗ nguyên dương thì chạy tiếp xuống dưới.-->
+<!--        let giaiThua = 1;    //chưa biết để làm gì.-->
+
+<!--        for (let i = 1; i <= num; i++) {   //-->
+<!--            giaiThua *= i;    // gỉai thừa * i = giai thừa.  (1 x 1 x 2 x 3 x 4)-->
+<!--        }-->
+<!--        alert("Giai thừa của " + num + " là " + giaiThua);-->
+<!--    }-->
+<!--</script>-->
+
+
+<!--<h1>in tam giác vuông </h1>-->
+
+<!--<script>-->
+<!--    //Hien thi dialog -> cho phep nhap gia tri cua N-->
+<!--    let N = +prompt('Nhap gia tri N')-->
+<!--    for(i=0;i<N;i++) {-->
+
+<!--        for(j=0;j<=i;j++) {-->
+<!--            document.writeln(" * ")-->
+<!--        }-->
+
+<!--        //xuong dong khi hien thi ket qua cua tung hang-->
+<!--        document.writeln("<br/>")-->
+<!--    }-->
+<!--</script>-->
+
+
+<!--<h1>Vẽ hình tam giác vuông ngược </h1>-->
+<!--<script>-->
+<!--    let nhapso = +prompt("Nhập vào đây")-->
+<!--    while (nhapso < 0) {-->
+<!--        alert("Đéo phải vòng lặp for, nhập lại đi.")-->
+<!--         nhapso = +prompt("Nhập vào đây") }-->
+<!--    for (let i = nhapso; i >= 1 ; i&#45;&#45;) {-->
+<!--        for(let j = 1; j <= i; j++) {-->
+<!--        hang1 = document.write("*")-->
+<!--      }-->
+<!--       document.write("<br>")-->
+
+<!--    }-->
+<!--</script>-->
+
+
+<!--<script>-->
+<!--    // In hình trái tim bằng ký tự * sử dụng document.write-->
+<!--    function drawHeart() {-->
+<!--        let n = 6; // Chiều cao của hình trái tim-->
+
+<!--        // Vòng lặp dùng để vẽ từng dòng của hình trái tim-->
+<!--        for (let i = 0; i < n; i++) {-->
+<!--            for (let j = 0; j <= 4 * n; j++) {-->
+<!--                let leftSide = j % n == 0; // Kiểm tra vị trí bên trái của hình trái tim-->
+<!--                let rightSide = j % n == n - 1; // Kiểm tra vị trí bên phải của hình trái tim-->
+
+<!--                if (leftSide && i != n - 1 || rightSide && i != 0 || i == n / 2 && j % n == n / 2) {-->
+<!--                    document.write("*");-->
+<!--                } else {-->
+<!--                    document.write("&nbsp;"); // Sử dụng dấu cách để tạo khoảng trắng-->
+<!--                }-->
+<!--            }-->
+<!--            document.write("<br>"); // Xuống dòng sau khi vẽ xong mỗi dòng-->
+<!--        }-->
+<!--    }-->
+
+<!--    // Gọi hàm để vẽ hình trái tim và hiển thị lên trang web-->
+<!--    drawHeart();-->
+
+
+<!--</script>-->
+
+<script>
+    // Kích thước của hình trái tim (số hàng)
+    const size = 6;
+
+    // Vẽ hình trái tim
+    for (let i = 0; i < size; i++) {
+        let row = '';
+        for (let j = 0; j <= 4 * size; j++) {
+            // Điều kiện để vẽ từng phần của hình trái tim
+            if ((i == 0 && j % size != 0) || (i == 1 && j % size == 0) ||
+                (i - j == size - 2) || (i + j == size + 3)) {
+                row += '*';
+            } else {
+                row += ' ';
+            }
+        }
+        console.log(row); // In ra từng hàng của hình trái tim
+    }
+
+</script>
+</body>
+
+</html>
