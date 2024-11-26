@@ -1,0 +1,235 @@
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #fdfcf9; /* Nhẹ nhàng, trung tính */
+    color: #4a2c2a; /* Màu nâu ấm */
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+.main {
+    display: flex; /* Thiết lập bố cục dạng Flexbox để dễ dàng quản lý các phần tử con theo hàng hoặc cột. */
+    flex-direction: column; /* Sắp xếp các phần tử con theo trục dọc (từ trên xuống dưới). */
+    min-height: 100vh; /* Đảm bảo chiều cao tối thiểu của phần tử này bằng chiều cao toàn màn hình (viewport height). */
+}
+
+
+
+
+
+
+
+/* Head: Phân vùng chứa nội dung đầu tiên của trang (Logo của quán cà phê và Banner slogan) */
+.head {
+    background: linear-gradient(135deg, #8b5e3c, #6f4e37); /* Tạo nền dạng gradient với góc nghiêng 135 độ, từ màu nâu (#8b5e3c) sang nâu đậm (#6f4e37). */
+    color: white; /* Thiết lập màu chữ là trắng để nổi bật trên nền gradient tối. */
+    text-align: center; /* Căn giữa tất cả nội dung văn bản bên trong theo chiều ngang. */
+    padding: 20px 0; /* Thêm khoảng cách bên trên và dưới nội dung (20px), không thêm khoảng cách bên trái hoặc phải. */
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /* Tạo hiệu ứng bóng đổ bên dưới phần tử:
+        - 0: Không dịch chuyển bóng theo chiều ngang.
+        - 5px: Dịch chuyển bóng 5px xuống dưới.
+        - 10px: Độ mờ (blur) của bóng.
+        - rgba(0, 0, 0, 0.2): Màu bóng là đen với độ mờ 20%. */
+}
+
+.logo {
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.banner {
+    font-size: 23px;
+    margin-top: 5px;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+
+/* head-link: Phân vùng chứa các liên kết điều hướng sang menu, quay lại trang chủ,...*/
+.head-link ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 10px;
+    background-color: #d7a076;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-top: 1px solid #b08a6e;
+}
+
+.head-link li {
+    margin: 0 20px;
+}
+
+.head-link a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+.head-link a:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Left: Phân vùng chứa các nội dung bên trái (Mục lục, ví dụ: sản phẩm được ưa chuộng) --> */
+.left {
+    width: 20%;
+    background-color: #f5ebe1;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.left h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #6f4e37;
+}
+
+.left ul {
+    list-style: none;
+    padding: 0;
+}
+
+.left li {
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+/* Main Content */
+.content-area {
+    display: flex;
+    flex: 1;
+    padding: 20px;
+    gap: 20px;
+}
+
+.content {
+    flex: 1;
+    background-color: #fff7e6;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.content > div {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #fce4d8;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+
+
+/* . Right: Phân vùng chứa các thông tin bên phải trang (Lịch, biểu đồ, quảng cáo) --> */
+.right {
+    width: 20%;
+    background-color: #f5ebe1;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.right h3 {
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #6f4e37;
+}
+
+
+
+
+
+/*  Footer: Phân vùng chứa các thông tin cuối trang (Thông tin về chủ sở hữu và các liên kết) */
+.footer {
+    background: linear-gradient(135deg, #8b5e3c, #6f4e37);
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 14px;
+    box-shadow: 0 -3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.footer p {
+    margin: 5px 0;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .content-area {
+        flex-direction: column;
+    }
+    .left, .right {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
